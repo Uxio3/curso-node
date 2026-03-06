@@ -1,3 +1,7 @@
+/**
+ * @deprecated Todo el archivo está en desuso, las funciones de inquirer.js reemplazan a las de aquí
+ */
+
 import colors from 'colors';
 
 export const mostrarMenu = () => {

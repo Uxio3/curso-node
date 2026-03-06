@@ -55,10 +55,6 @@ const main = async() => {
                         console.log('Tarea borrada!!!');
                     }
                 }
-
-                break;
-            case '0':
-                
                 break;
         }
 
