@@ -1,6 +1,6 @@
 const { crearArchivo } = require('./helpers/multiplicar.js');
 const argv = require('./config/yargs.js');
-var colors = require('colors');
+var colors = require('colors/index.js');
 
 console.clear();
 
